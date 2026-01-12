@@ -1,2 +1,2 @@
-rootProject.name = "SONICKZ"
+rootProject.name = "SonicKZ"
 include(":app")
