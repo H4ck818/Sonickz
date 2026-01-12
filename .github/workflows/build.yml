@@ -29,3 +29,6 @@ jobs:
         with:
           name: sonickz-apk
           path: app/build/outputs/apk/debug/*.apk
+
+        - name: List APK files
+        run: find . -name "*.apk"
